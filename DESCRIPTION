@@ -1,0 +1,21 @@
+Package: mcmcFunc
+Type: Package
+Title: run mcmc
+Version: 0.1.0
+Author: blank
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: runs MCMC function
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Depends: abind,
+         RMySQL,
+         ggplot2, 
+         reshape2, 
+         network, 
+         grid,
+         xtable,
+         tikzDevice,
+         shape,
+         igraph
+RoxygenNote: 6.1.1
